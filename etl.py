@@ -1,7 +1,7 @@
-# %%
 import numpy as np
 import pandas as pd
-import sklearn
+import sklearn 
+
 
 np.set_printoptions(precision=3)
 pd.options.display.precision = 2
